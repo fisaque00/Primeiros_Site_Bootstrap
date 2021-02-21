@@ -1,0 +1,20 @@
+
+*  
+body{
+    font: 20px Arial, sans-serif; 
+}
+.container-fluid {
+    background-color: #90c8d6;
+    padding-bottom: 0%;
+
+}
+
+.Quem-Somos {
+    background-color: rgb(192, 153, 69);
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 50px;
+
+}
