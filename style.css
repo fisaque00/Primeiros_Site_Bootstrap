@@ -2,19 +2,33 @@
 *  
 body{
     font: 20px Arial, sans-serif; 
+    
 }
 .container-fluid {
-    background-color: #90c8d6;
+    background-color:  #dba101;
     padding-bottom: 0%;
 
 }
 
 .Quem-Somos {
-    background-color: rgb(192, 153, 69);
+    background-color: #A9D0F5;
 }
 
 .margin {
     padding-top: 30px;
     padding-bottom: 50px;
 
+}
+.parceiros{
+    
+    background-color:  #298A08
+
+}
+.bg-footer{
+    background-color: black;
+    color:white
+}
+
+.p {
+    font-size: 10pt;
 }
